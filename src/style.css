@@ -1,1 +1,18 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#card {
+  width: 140px;
+  height: 180px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 5px 5px 8px black;
+  margin: 20px 20px 20px 20px;
+}
+
+.solitaireBg {
+  background-color: #35654d;
+}
+
+.specialSuit {
+  color: red;
+}
